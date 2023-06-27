@@ -81,7 +81,7 @@ My name is Dmytro Kolomiets. I'm a frontend developer with more than 3 years of 
 
 
 ## Github Stats
-http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={Nookons}&theme={theme_name}&exclude={exclude}
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nookons&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nookons&show_icons=true&theme=radical)
 
