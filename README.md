@@ -81,15 +81,7 @@ My name is Dmytro Kolomiets. I'm a frontend developer with more than 3 years of 
 
 
 ## Github Stats
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nookons&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nookons&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Nookons}&theme={github_dark}
 
 <br/>  
 
