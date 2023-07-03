@@ -15,13 +15,6 @@ My name is Dmytro Kolomiets. I'm a frontend developer with more than 3 years of 
 
 <br/>  
 
-## Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nookons&hide_progress=true)
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nookons)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-
 ## Languages and Tools
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
@@ -50,6 +43,13 @@ My name is Dmytro Kolomiets. I'm a frontend developer with more than 3 years of 
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="25" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
 </div>  
+
+## Github Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nookons&hide_progress=true)
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nookons)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
 
 ## Rapidfire
 
