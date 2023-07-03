@@ -1,15 +1,5 @@
 ## Hey 👋, I'm Kolomiiets Dmytro!
 
-
-## Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nookons&hide_progress=true)
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nookons)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nookons&show_icons=true&theme=radical)
-
-<br/>
-
 <a href="https://linkedin.com/in/www.linkedin.com/in/nookon" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -20,15 +10,19 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 
-
-
-
 ### Glad to see you here!
 My name is Dmytro Kolomiets. I'm a frontend developer with more than 3 years of experience, specializing in using React. I am a follower of elegant and intuitive user interface. My goal is to create beautiful and functional web applications that not only look attractive, but also provide great user interaction. I strive for perfection in every line of code, and I enjoy working in a team where the boldest ideas can be implemented. If you're looking for a professional to create modern and responsive web applications, I'm ready to take on the task!
 
-
 <br/>  
 
+## Github Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nookons&hide_progress=true)
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nookons)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nookons&show_icons=true&theme=radical)
+
+<br/>
 
 ## Rapidfire
 
