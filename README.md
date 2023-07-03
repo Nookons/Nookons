@@ -22,26 +22,6 @@ My name is Dmytro Kolomiets. I'm a frontend developer with more than 3 years of 
 
 <br/>
 
-## Rapidfire
-
-- 🔭 I’m currently working on [Money App](https://github.com/Nookons/money-app)
-
-
-- 🌱 I’m currently learning Redyx and TypeScript
-
-
-- ❓ Ask me about anything related to React stack and related technologies
-
-
-- ⚡ Fun fact: I keep night shift swithed on at all times
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
 ## Languages and Tools
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
@@ -71,8 +51,24 @@ My name is Dmytro Kolomiets. I'm a frontend developer with more than 3 years of 
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
 </div>  
 
-<br/>  
+## Rapidfire
 
+- 🔭 I’m currently working on [Money App](https://github.com/Nookons/money-app)
+
+
+- 🌱 I’m currently learning Redyx and TypeScript
+
+
+- ❓ Ask me about anything related to React stack and related technologies
+
+
+- ⚡ Fun fact: I keep night shift swithed on at all times
+
+
+
+</td></tr></table>  
+
+<br/>  
 
 <br/>  
 
