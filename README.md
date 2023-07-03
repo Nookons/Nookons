@@ -45,7 +45,7 @@ My name is Dmytro Kolomiets. I'm a frontend developer with more than 3 years of 
 </div>  
 
 ## Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nookons&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nookons&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nookons)](https://github.com/anuraghazra/github-readme-stats)
 
